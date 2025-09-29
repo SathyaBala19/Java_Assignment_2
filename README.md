@@ -54,5 +54,5 @@ java GymSystem
 
 ## 👨‍🎓 Student Details
 
-* **Name:** [Your Name Here]
-* **Roll No:** [Your Roll Number Here]
+* **Name:** B Sathya Bala
+* **Roll No:** 717824I252
